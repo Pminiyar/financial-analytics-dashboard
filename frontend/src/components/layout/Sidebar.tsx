@@ -4,7 +4,6 @@ import {
   LayoutDashboard,
   ReceiptText,
   BarChart3,
-  ShieldCheck,
   TrendingUp,
   X
 } from 'lucide-react';
@@ -93,16 +92,6 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onClose }) => {
           </div>
         </div>
 
-        {/* Bottom System Status Widget */}
-        <div className="p-4 border-t border-slate-100 m-3 bg-slate-50 rounded-2xl">
-          <div className="flex items-center space-x-2 text-emerald-600 text-xs font-semibold mb-1">
-            <ShieldCheck className="w-4 h-4" />
-            <span>MongoDB Connected</span>
-          </div>
-          <p className="text-[11px] text-slate-500">
-            JWT Session Active • 7d Expiry
-          </p>
-        </div>
       </aside>
     </>
   );
