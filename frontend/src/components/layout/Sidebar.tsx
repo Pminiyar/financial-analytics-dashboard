@@ -4,7 +4,6 @@ import {
   LayoutDashboard,
   ReceiptText,
   BarChart3,
-  Settings,
   ShieldCheck,
   TrendingUp,
   X
@@ -20,7 +19,6 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onClose }) => {
     { name: 'Dashboard', path: '/', icon: LayoutDashboard },
     { name: 'Transactions', path: '/transactions', icon: ReceiptText },
     { name: 'Analytics', path: '/analytics', icon: BarChart3 },
-    { name: 'Settings', path: '/settings', icon: Settings },
   ];
 
   return (
