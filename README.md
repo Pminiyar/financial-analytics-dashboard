@@ -24,7 +24,7 @@ A full-stack, fintech-grade web application built for financial analysts to moni
 ## 👤 Submission Details
 
 - **Applicant Name:** Piyush Miniyar
-- **Email:** `piyushminiyar2002@gmail.com`
+- **Email:** `piyushminiyar1@gmail.com`
 - **GitHub Repository:** [https://github.com/Pminiyar/financial-analytics-dashboard](https://github.com/Pminiyar/financial-analytics-dashboard)
 - **Live Deployment:** [https://financial-analytics-dashboard-self-nine.vercel.app/](https://financial-analytics-dashboard-self-nine.vercel.app/)
 - **Postman Documentation:** [https://documenter.getpostman.com/view/58309406/2sBYB1N8gR](https://documenter.getpostman.com/view/58309406/2sBYB1N8gR)
@@ -453,6 +453,7 @@ When recording your demo video, follow this smooth flow:
 ## 11. Author
 
 **Piyush Miniyar**
+- **Email:** `piyushminiyar1@gmail.com`
 - **GitHub:** [@Pminiyar](https://github.com/Pminiyar)
 - **Live Demo:** [https://financial-analytics-dashboard-self-nine.vercel.app/](https://financial-analytics-dashboard-self-nine.vercel.app/)
 - **API Documentation:** [https://documenter.getpostman.com/view/58309406/2sBYB1N8gR](https://documenter.getpostman.com/view/58309406/2sBYB1N8gR)
